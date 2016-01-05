@@ -48,3 +48,8 @@ CTR+y, CTR+e              Перемотка вверх/вниз без движ
 == Перенос строк ==
 :set wrap                 разрешить word wrap (по умолчанию)
 :set nowrap               запретить word wrap
+
+== Печать ==
+:ha[rdcopy]                   распечатать документ
+:set printoptions=duplex:off  отключить двустороннюю печать
+
