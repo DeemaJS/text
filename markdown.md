@@ -52,3 +52,25 @@ Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
+
+Images
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+Links
+
+http://github.com - automatic!
+[GitHub](http://github.com)
+
+Blockquotes
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+Inline code
+
+I think you should use an
+`<addr>` element here instead.
