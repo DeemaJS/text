@@ -74,3 +74,16 @@ Inline code
 
 I think you should use an
 `<addr>` element here instead.
+
+Syntax highlighting
+
+Here’s an example of how you can use syntax highlighting with GitHub Flavored Markdown:
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
