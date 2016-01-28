@@ -79,3 +79,8 @@
 Своей белой чистотой.
 И стирает всю усталость
 Неземной даря покой.
+
+Gulp and grunt will beat,
+Where are scripting seat?
+Npm will lead...
+
