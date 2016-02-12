@@ -1,0 +1,24 @@
+{
+  "name": "todo-app",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "~1.13.2",
+    "cookie-parser": "~1.3.5",
+    "debug": "~2.2.0",
+    "express": "~4.13.1",
+    "jade": "~1.11.0",
+    "less-middleware": "^2.0.1",
+    "mongodb": "~2.0.33",
+    "monk": "~1.0.1",
+    "morgan": "~1.6.1",
+    "mongoskin": "1.4.4",
+    "mongoose": "~3.8.3",
+    "MD5": "~1.2.0",
+    "moment": "^2.8.4",
+    "serve-favicon": "~2.3.0"
+  }
+}
