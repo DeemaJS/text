@@ -1,4 +1,4 @@
-// good technics install express-generator
+// good technics install express-generator and init --save-dev
 // comment depricated in JSON
 {
   "name": "orion",
