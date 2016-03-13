@@ -1,4 +1,5 @@
 // good technics install express-generator
+// comment depricated in JSON
 {
   "name": "orion",
   "version": "0.0.1",
