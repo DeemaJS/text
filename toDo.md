@@ -4,4 +4,6 @@
 2. Docker for node
 3. Express framework
 4. Dimple
+5. Babel-cli
+6. Sailjs
 
