@@ -7,4 +7,4 @@
 5. Babel-cli
 6. Sailjs
 
--- npm install node-fetch --save-dev
+-- npm install node-fetch bluebird --save-dev
