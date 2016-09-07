@@ -1,7 +1,7 @@
 # Руководство Плагинов Babel
 
 В этом документе описано как создавать [плагины](https://babeljs.io/docs/advanced/plugins/) для [Babel](https://babeljs.io).
-And you will learn markdown
+And you will learn markdown for fun
 
 # Содержание
 
